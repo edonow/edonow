@@ -17,12 +17,12 @@
 <!-- [![edonow (Takaaki Edo)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <img alt="edonow (Takaaki Edo)" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical">
 
-
+<!--
 <p align="center"> 
   <img alt="Top Langs by Repo" width="49.75%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edonow&theme=radical&exclude=javascript,python,c_cpp,html,css" />
   <img alt="Top languages in commit" width="49.75%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edonow&theme=radical&exclude=javascript,python,c_cpp,html,css" />
 </p>
-
+-->
 
 
 <h3 align="left">Languages and Tools:</h3>

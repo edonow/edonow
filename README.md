@@ -19,8 +19,8 @@
 
 
 <p align="center"> 
-  <img alt="Top Langs" height="178px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edonow&theme=radical&exclude=JavaScript,Python,React" />
-  <img alt="github stats" height="178px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edonow&theme=radical&exclude=Java,Rust" />
+  <img alt="Top Langs" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edonow&theme=radical&exclude=JavaScript,Python,React" />
+  <img alt="github stats" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edonow&theme=radical&exclude=JavaScript,Python" />
 </p>
 
 

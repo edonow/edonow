@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 <br>
-[![Edo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edonow)](https://github.com/anuraghazra/github-readme-stats)
+[![Edo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edonow)]
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>

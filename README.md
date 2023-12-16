@@ -8,7 +8,7 @@
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edonow)](https://github.com/anuraghazra/github-readme-stats) -->
-<p align="left"> 
+<p align="center"> 
   <img alt="Top Langs" height="178px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edonow&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="178px" src="https://github-readme-stats.vercel.app/api?username=edonow&theme=onedark&show_icons=ture" />
 </p>
@@ -19,8 +19,8 @@
 
 
 <p align="center"> 
-  <img alt="Top Langs" height="178px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edonow&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="178px" src="https://github-readme-stats.vercel.app/api?username=edonow&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="178px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edonow&theme=radical&exclude=JavaScript,Python,React" />
+  <img alt="github stats" height="178px" src="" />
 </p>
 
 

@@ -13,6 +13,8 @@
 </p>
 
 
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical
+
 
 
 <h3 align="left">Languages and Tools:</h3>

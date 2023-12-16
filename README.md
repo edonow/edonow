@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, I'm Edo</h1>
 <br>
 <br>
 [![Edo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edonow)]

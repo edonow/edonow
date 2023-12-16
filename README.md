@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiedonow=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/edonow=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)<br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

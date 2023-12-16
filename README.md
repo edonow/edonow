@@ -2,7 +2,6 @@
 <h1 align="">Hi there👋, I'm Edo</h1>
 <br>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=edonow)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -18,3 +17,6 @@
 <br>
 <br>
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edonow&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)

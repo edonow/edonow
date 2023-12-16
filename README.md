@@ -15,7 +15,7 @@
 
 
 <!-- [![edonow (Takaaki Edo)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-<img alt="edonow (Takaaki Edo)" width="300px" src="[https://github-profile-trophy.vercel.app/?username=edonow&theme=onedark](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical)">
+<img alt="edonow (Takaaki Edo)" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical">
 
 
 

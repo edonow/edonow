@@ -4,7 +4,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=edonow)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=edonow&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-<img alt="Trophy" width="300px" src="https://github-profile-trophy.vercel.app/?username=edonow&theme=onedark">
+<img alt="Trophy" width="100%" src="https://github-profile-trophy.vercel.app/?username=edonow&theme=onedark">
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edonow)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -15,7 +15,7 @@
 
 
 <!-- [![edonow (Takaaki Edo)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-<img alt="edonow (Takaaki Edo)" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical">
+<img alt="edonow (Takaaki Edo)" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical">
 
 
 

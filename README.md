@@ -1,5 +1,6 @@
 <!-- <h1 align="center">Hi there👋, I'm Edo</h1> -->
-<h1 align="">Hi there👋, I'm Edo</h1>
+<!-- <h1 align="">Hi there👋, I'm Edo</h1> -->
+# Hi there👋, I'm Edo
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=edonow)](https://github.com/ryo-ma/github-profile-trophy) -->

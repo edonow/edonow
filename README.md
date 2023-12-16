@@ -18,6 +18,11 @@
 <img alt="edonow (Takaaki Edo)" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical">
 
 
+<p align="center"> 
+  <img alt="Top Langs" height="178px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edonow&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="178px" src="https://github-readme-stats.vercel.app/api?username=edonow&theme=onedark&show_icons=ture" />
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>

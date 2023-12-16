@@ -3,7 +3,8 @@
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=edonow)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=edonow&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=edonow&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+<img alt="Trophy" width="100%" src="https://github-profile-trophy.vercel.app/?username=edonow&theme=onedark">
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edonow)](https://github.com/anuraghazra/github-readme-stats) -->

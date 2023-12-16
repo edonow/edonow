@@ -13,7 +13,7 @@
 </p>
 
 
-[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical]
+[![edonow (Takaaki Edo)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 

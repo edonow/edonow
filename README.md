@@ -2,6 +2,7 @@
 <!-- <h1 align="">Hi there👋, I'm Edo</h1> -->
 # Hi there👋, I'm Edo
 
+<!-- Ref. https://zenn.dev/a_ichi1/articles/0411396e6b887d -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=edonow)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=edonow&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
@@ -11,13 +12,13 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edonow)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="center"> 
-  <img alt="Top Langs" width="58.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edonow&layout=compact&show_icons=true" />
-  <img alt="github stats" width="40.75%" src="https://github-readme-stats.vercel.app/api?username=edonow&show_icons=ture" />
+  <img alt="Top Langs" width="58.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edonow&layout=compact&show_icons=true&theme=transparent" />
+  <img alt="github stats" width="40.75%" src="https://github-readme-stats.vercel.app/api?username=edonow&show_icons=ture&theme=transparent" />
 </p>
 
 
 <!-- [![edonow (Takaaki Edo)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-<img alt="edonow (Takaaki Edo)" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=radical">
+<img alt="edonow (Takaaki Edo)" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edonow&theme=default">
 
 <!--
 <p align="center"> 

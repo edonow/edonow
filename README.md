@@ -2,7 +2,9 @@
 <!-- <h1 align="">Hi there👋, I'm Edo</h1> -->
 # Hi there👋, I'm Edo
 
-<!-- Ref. https://zenn.dev/a_ichi1/articles/0411396e6b887d -->
+<!-- Ref:
+https://zenn.dev/yutakatay/articles/kirakira-github-profile
+https://zenn.dev/a_ichi1/articles/0411396e6b887d -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=edonow)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=edonow&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
@@ -37,6 +39,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://workspace.google.com/intl/ja/products/apps-script/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="gas" width="40" height="40"/> </a>
 </p>
 
